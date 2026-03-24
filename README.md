@@ -4,6 +4,8 @@ LexIA é um **produto digital fullstack** que utiliza **Inteligência Artificial
 
 O objetivo do projeto é tornar dados públicos complexos **mais acessíveis, compreensíveis e úteis** para cidadãos, estudantes e profissionais.
 
+🌐 **Acesse a aplicação em produção:** [LexIA - Live Demo](COLE_SEU_LINK_DO_RENDER_AQUI)
+
 ---
 
 ## 🚀 Visão do Produto
@@ -67,7 +69,6 @@ O código-fonte completo não está disponível publicamente, pois o projeto est
 🔒 Código-fonte disponível **sob solicitação** para fins acadêmicos ou avaliação técnica.
 
 ---
-
 
 ## 🎓 Contexto Acadêmico
 
