@@ -16,12 +16,12 @@ Este projeto está sendo desenvolvido com foco em **produto real**, escalabilida
 
 ## 🧠 Principais Funcionalidades
 
-* Consumo de dados públicos da Câmara dos Deputados e Senado Federal
-* Análise semântica de proposições legislativas utilizando Inteligência Artificial
-* Filtro e ordenação por relevância e impacto social
-* API REST para integração com diferentes plataformas
-* Interface web segura com controle de acesso
-* Arquitetura preparada para crescimento e novas funcionalidades
+- Consumo de dados públicos da Câmara dos Deputados e Senado Federal
+- Análise semântica de proposições legislativas utilizando Inteligência Artificial
+- Filtro e ordenação por relevância e impacto social
+- API REST para integração com diferentes plataformas
+- Interface web segura com controle de acesso
+- Arquitetura preparada para crescimento e novas funcionalidades
 
 ---
 
@@ -29,9 +29,9 @@ Este projeto está sendo desenvolvido com foco em **produto real**, escalabilida
 
 O sistema é dividido em camadas independentes:
 
-* **Backend**: responsável por dados, regras de negócio e IA
-* **Frontend Web**: interface de visualização e interação
-* **Banco de Dados**: persistência e organização das informações
+- **Backend**: responsável por dados, regras de negócio e IA
+- **Frontend Web**: interface de visualização e interação
+- **Banco de Dados**: persistência e organização das informações
 
 Essa separação permite reutilização do backend em aplicações web e mobile.
 
@@ -41,20 +41,20 @@ Essa separação permite reutilização do backend em aplicações web e mobile.
 
 ### Backend
 
-* Node.js
-* Express.js
-* Prisma ORM
-* MongoDB
-* API REST
-* Middleware global de erros
-* Integração com Inteligência Artificial
+- Node.js
+- Express.js
+- Prisma ORM
+- MongoDB
+- API REST
+- Middleware global de erros
+- Integração com Inteligência Artificial
 
 ### Frontend
 
-* React
-* React Router
-* Rotas protegidas
-* CSS Modules
+- React
+- React Router
+- Rotas protegidas
+- CSS Modules
 
 ---
 
@@ -68,15 +68,14 @@ O código-fonte completo não está disponível publicamente, pois o projeto est
 
 ---
 
-
 ## 🎓 Contexto Acadêmico
 
 A LexIA é um projeto autoral desenvolvido como parte do aprofundamento em:
 
-* Arquitetura de software
-* Sistemas distribuídos
-* Integração de Inteligência Artificial
-* Processamento e análise de dados
+- Arquitetura de software
+- Sistemas distribuídos
+- Integração de Inteligência Artificial
+- Processamento e análise de dados
 
 ---
 
