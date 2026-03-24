@@ -4,8 +4,6 @@ LexIA é um **produto digital fullstack** que utiliza **Inteligência Artificial
 
 O objetivo do projeto é tornar dados públicos complexos **mais acessíveis, compreensíveis e úteis** para cidadãos, estudantes e profissionais.
 
-🌐 **Acesse a aplicação em produção:** [LexIA - Live Demo](COLE_SEU_LINK_DO_RENDER_AQUI)
-
 ---
 
 ## 🚀 Visão do Produto
@@ -70,6 +68,7 @@ O código-fonte completo não está disponível publicamente, pois o projeto est
 
 ---
 
+
 ## 🎓 Contexto Acadêmico
 
 A LexIA é um projeto autoral desenvolvido como parte do aprofundamento em:
@@ -86,7 +85,7 @@ A LexIA é um projeto autoral desenvolvido como parte do aprofundamento em:
 **João Vitor Amorim de França**
 Acadêmico de Engenharia Elétrica – IFMA (6º período)
 
-LinkedIn: [https://www.linkedin.com/in/joaofranca](https://www.linkedin.com/in/joaofranca)
+LinkedIn: [https://www.linkedin.com/in/jaofranca](https://www.linkedin.com/in/jaofranca/)
 GitHub: [https://github.com/joaofranca](https://github.com/joaofranca)
 
 ---
