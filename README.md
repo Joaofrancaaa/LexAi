@@ -86,7 +86,7 @@ A LexIA é um projeto autoral desenvolvido como parte do aprofundamento em:
 Acadêmico de Engenharia Elétrica – IFMA (6º período)
 
 LinkedIn: [https://www.linkedin.com/in/jaofranca](https://www.linkedin.com/in/jaofranca/)
-GitHub: [https://github.com/joaofrancaaaa](https://github.com/joaofrancaaaa)
+GitHub: [https://github.com/joaofrancaaaa](https://github.com/joaofrancaaa)
 
 ---
 
